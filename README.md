@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sign Language Translator**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **Data Structures, Web Development, Java**
 
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sayan-ghosh-chandra-94a286271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan ghosh chandra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
